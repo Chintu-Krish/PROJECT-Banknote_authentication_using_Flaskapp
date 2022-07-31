@@ -1,0 +1,5 @@
+Algorithm,Accuracy_Score
+Decision Tree,88.84
+Random Forest ,99.03
+Logistic Regression,95.54
+SVM,91.45
